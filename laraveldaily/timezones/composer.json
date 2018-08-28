@@ -1,0 +1,12 @@
+{
+    "name": "agile/timezones",
+    "description": "This is a test plugin",
+    "type": "e.g.",
+    "authors": [
+        {
+            "name": "Kaushik Savaliya",
+            "email": "kaushik.savaliya@agileinfoways.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

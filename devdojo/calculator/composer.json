@@ -1,0 +1,12 @@
+{
+    "name": "agile/calculator",
+    "description": "This is a test plugin",
+    "authors": [
+        {
+            "name": "Kaushik Savaliya",
+            "email": "kaushik.savaliya@agileinfoways.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
